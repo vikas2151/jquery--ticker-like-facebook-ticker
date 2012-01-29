@@ -1,0 +1,15 @@
+Hello
+
+It's a simple Jquery ticker just like the facebook real time ticker.
+
+i tested this in chrome 15,FF 8,IE 9 and it works fine.
+
+You can use it to scroll text,video,images etc.
+
+just replace the content as per your requirment in index.html file inside
+
+<div class="text">
+<p>your content goes here..</p>
+</div>
+
+
